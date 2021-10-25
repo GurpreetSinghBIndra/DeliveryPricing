@@ -1,0 +1,9 @@
+C:\Users\gbindra\source\repos\Delivery.Pricing\Delivery.Pricing.Common\bin\Debug\netstandard2.0\Delivery.Pricing.Common.deps.json
+C:\Users\gbindra\source\repos\Delivery.Pricing\Delivery.Pricing.Common\bin\Debug\netstandard2.0\Delivery.Pricing.Common.dll
+C:\Users\gbindra\source\repos\Delivery.Pricing\Delivery.Pricing.Common\bin\Debug\netstandard2.0\Delivery.Pricing.Common.pdb
+C:\Users\gbindra\source\repos\Delivery.Pricing\Delivery.Pricing.Common\obj\Debug\netstandard2.0\Delivery.Pricing.Common.AssemblyInfoInputs.cache
+C:\Users\gbindra\source\repos\Delivery.Pricing\Delivery.Pricing.Common\obj\Debug\netstandard2.0\Delivery.Pricing.Common.AssemblyInfo.cs
+C:\Users\gbindra\source\repos\Delivery.Pricing\Delivery.Pricing.Common\obj\Debug\netstandard2.0\Delivery.Pricing.Common.csproj.CoreCompileInputs.cache
+C:\Users\gbindra\source\repos\Delivery.Pricing\Delivery.Pricing.Common\obj\Debug\netstandard2.0\Delivery.Pricing.Common.dll
+C:\Users\gbindra\source\repos\Delivery.Pricing\Delivery.Pricing.Common\obj\Debug\netstandard2.0\Delivery.Pricing.Common.pdb
+C:\Users\gbindra\source\repos\Delivery.Pricing\Delivery.Pricing.Common\obj\Debug\netstandard2.0\Delivery.Pricing.Common.csprojAssemblyReference.cache
